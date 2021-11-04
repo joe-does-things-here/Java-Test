@@ -1,0 +1,3 @@
+returns and passes instead of global variables
+backspace key
+do a DDIV/MOD check to see if you need to display the ".0" at the end every time
